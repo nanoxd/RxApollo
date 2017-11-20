@@ -1,2 +1,2 @@
-github "nanoxd/apollo-ios" "master"
+github "nanoxd/apollo-ios" "middleware"
 github "ReactiveX/RxSwift" ~> 4.0
