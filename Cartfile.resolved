@@ -1,3 +1,3 @@
 github "ReactiveX/RxSwift" "4.0.0"
-github "nanoxd/apollo-ios" "0b7c3ec4f09e54c882f46b7ea1b5a40c3172915d"
+github "nanoxd/apollo-ios" "e51a1ce6255176272bbae744b18dd76ffb0e5053"
 github "stephencelis/SQLite.swift" "0.11.4"
